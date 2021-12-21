@@ -1,1 +1,2 @@
 Some text fot header
+Changes from <master>
